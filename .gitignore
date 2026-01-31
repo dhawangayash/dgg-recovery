@@ -1,0 +1,28 @@
+# --- Emacs ---
+*~
+\#*\#
+.\#*
+/auto-save-list/
+/tramp
+.elc
+*.elc
+eln-cache/
+*.eln
+.eshell/
+.abbrev_defs
+recentf
+bookmarks
+
+# --- Packages / build artifacts ---
+/.elpa/
+/straight/
+/dist/
+/build/
+
+# --- Tests / coverage artifacts (if you add them later) ---
+/coverage/
+*.log
+
+# --- OS / editor noise ---
+.DS_Store
+Thumbs.db
